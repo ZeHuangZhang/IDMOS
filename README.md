@@ -110,6 +110,4 @@
 
 
 > # 支持
-|   支付宝   | 微信  |
-|   ----     | ----  |
-|   ![支付宝](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Support/AliPay.jpeg "支付宝")      | ![微信](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Support/WeChat.jpeg "微信") |
+ ![微信](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Support/WeChat.jpeg "微信")
