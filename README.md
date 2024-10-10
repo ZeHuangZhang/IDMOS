@@ -1,8 +1,21 @@
-# IDMOS
-IDMOS .NET .NETCore 认证中心 管理后台 组织管理 系统管理 权限管理 开放平台 实时监控  日志管理
+>  # IDMOS
 
-# 功能
+*  技术栈
+    ---
+	.NET .NETCore Vue Vite
+
+*  终端
+	---
+	 PC H5
+
+*  功能
+	---
+	 认证中心 管理后台 组织管理 系统管理 权限管理 开放平台 实时监控  日志管理 
+
+> # 功能
+
 ## 个人中心
+
 ### 基本信息
 
 ![基本信息](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/1.jpeg)
