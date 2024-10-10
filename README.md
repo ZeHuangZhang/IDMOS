@@ -39,19 +39,28 @@ IDMOS .NET .NETCore 认证中心 管理后台 组织管理 系统管理 权限�
 ## 实时监控
 
 ### 服务器
+![服务器](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Monitor/1.jpeg) 
 
 ### 缓存
+![缓存](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Monitor/2.jpeg) 
 
 ### Redis
+![Redis](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Monitor/3.jpeg) 
 
 ### 定时任务
+![定时任务](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Monitor/4.jpeg) 
 
 ## 安全设置
 
 ### 名单
+![名单](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Security/1.jpeg) 
+
+![名单](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Security/2.jpeg) 
 
 ## 日志管理
 
 ### 接口
+![接口](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Log/1.jpeg) 
 
 ### 文件
+![文件](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Log/2.jpeg) 
