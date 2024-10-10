@@ -110,4 +110,4 @@
 
 
 > # 支持
- ![微信](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Support/WeChat.jpeg "微信")
+ <img src="https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Support/WeChat.jpeg" style="object-fit:cover" width="300px" height="300px" alt="微信" title="微信">
