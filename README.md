@@ -64,3 +64,31 @@ IDMOS .NET .NETCore 认证中心 管理后台 组织管理 系统管理 权限�
 
 ### 文件
 ![文件](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Log/2.jpeg) 
+
+
+## 开放平台
+
+### 看板
+![看板](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/OpenApi/1.jpeg) 
+
+![项目](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/OpenApi/2.jpeg) 
+
+### 概览
+![概览](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/OpenApi/3.jpeg)
+
+![分组](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/OpenApi/4.jpeg) 
+
+### 接口
+![接口](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/OpenApi/5.jpeg) 
+
+![接口](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/OpenApi/6.jpeg) 
+
+![接口](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/OpenApi/7.jpeg) 
+
+![接口](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/OpenApi/8.jpeg) 
+
+### 文档
+![文档](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/OpenApi/9.jpeg) 
+
+### 调试
+![调试](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/OpenApi/10.jpeg) 
