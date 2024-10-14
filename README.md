@@ -1,10 +1,9 @@
 >  # IDMOS
-
-	IDMOS是基于.NETCore开发的平台,提供管理后台,开放平台,实时监控,日志管理等一系列功能。
+IDMOS是基于.NET8开发的平台,提供管理后台,开放平台,实时监控,日志管理等一系列功能。
 
 *	技术栈
 		
-	   .NET .NETCore Vue Vite
+	  .NET8、Vue
 
 *  终端
 	
