@@ -137,4 +137,5 @@
 ![名单](https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Maintenance/9.jpeg) 
 
 > # 支持
- <img src="https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Support/WeChat.jpeg" style="object-fit:cover" width="300px" height="300px" alt="微信" title="微信">
+ <img src="https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Support/WeChat.jpeg" style="object-fit:cover" width="300px" height="300px" alt="微信收款" title="微信收款">
+ <img src="https://raw.githubusercontent.com/ZeHuangZhang/IDMOS/main/ScreenShot/Support/Offical.png" style="object-fit:cover" width="300px" height="300px" alt="官网" title="官网">
